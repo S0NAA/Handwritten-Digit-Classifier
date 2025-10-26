@@ -23,3 +23,14 @@ This project demonstrates the use of a **neural network** to classify handwritte
 6. **Model Saving**: The trained model is saved as `mnist_model.h5` for future use.
 
 ---
+## Activate the virtual environment
+
+ Windows: venv\Scripts\activate
+ Mac/Linux:source venv/bin/activate
+
+---
+
+## Run the program
+python mnist_digit_recognition.py
+
+---
