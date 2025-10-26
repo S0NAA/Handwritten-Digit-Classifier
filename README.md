@@ -24,13 +24,13 @@ This project demonstrates the use of a **neural network** to classify handwritte
 
 ---
 ## Activate the virtual environment
+**Windows:**
+    - venv\Scripts\activate
+**Mac/Linux:**
+    - source venv/bin/activate
 
- Windows: venv\Scripts\activate
- Mac/Linux:source venv/bin/activate
-
----
+## Install dependencies
+pip install -r requirements.txt
 
 ## Run the program
 python mnist_digit_recognition.py
-
----
