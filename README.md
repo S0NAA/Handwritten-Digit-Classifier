@@ -24,9 +24,9 @@ This project demonstrates the use of a **neural network** to classify handwritte
 
 ---
 ## Activate the virtual environment
-**Windows:**
+1. **Windows:**
     - venv\Scripts\activate
-**Mac/Linux:**
+2. **Mac/Linux:**
     - source venv/bin/activate
 
 ## Install dependencies
